@@ -17,3 +17,5 @@ Create a Person class with the attributes name, surname, and age. Then, create a
 In the main() method, call this generic method using different parameter types (for example: a Person object, a String, and a primitive numeric value).
 
 This exercise demonstrates that generic methods can accept any combination of types and in any order.
+
+ITA.S1.06
